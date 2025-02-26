@@ -13,10 +13,3 @@ Une fonction permet ensuite de calculer le meilleur estimateur.
 *NB : le meilleur modèle est recalculé si le scraping est relancé.*
 
 Les prédictions obtenues sont stockées dans un tableau `resultat.csv`.
-
-# Installation
-
-- En téléchargeant le dossier :
-```sh
-py -m pip install C:/Users/Downloads/GHAFFOUR_JEAN_SONDEJI_PROJECT
-```
